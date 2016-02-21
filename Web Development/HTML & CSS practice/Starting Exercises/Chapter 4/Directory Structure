@@ -1,0 +1,12 @@
+Directory Structure
+-Directory structure is extremely important for larger sites, it helps group content and helps organize the code
+-The "Top Level" directory is known as the root folder
+-Higher level folders are parents of the lower level folders
+-The default homepage of a site is written in HTML and is usually called index.html
+-Web servers will usually return index.html as the browsing point if a request is made to a web page it doesn't 
+	recognize
+-Every page and every image on a website has its own URL or Uniform Resource Locator.
+-The URL is made up of the domain name followed by the path name of the page or image, which is also why folder 
+	structure is important when making a website
+-Individual folders or individual groupings of webpages within a website should have their own index.html to navigate
+	back whenever errors occur.

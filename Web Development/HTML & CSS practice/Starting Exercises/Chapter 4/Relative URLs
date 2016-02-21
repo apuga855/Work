@@ -1,0 +1,16 @@
+Relative URLs
+-When referencing a webpage on your website within your same domain name you do not need to type the absolute path
+	of the webpage, we can use the shorthand version.
+-This is specially useful when learning HTML, since you do not have to start hosting yoru website and can access
+	your own webpages within the same folder
+-Accessing webpages within the same folder is as easy as typing the name of the folder path plus file on the link 
+	element
+-There are several ways to set up the relative link:
+	-Same folder: Just use the file name, <a href="reviews.html"> Reviews<a/>
+	-Child folder: Use the name of the child folder followed by a forward slash, 
+		<a href="music/listings.html"> Listings</a>
+	-Grandchild folder: Repeat the same process for each folder traversed, 
+		<a href="movies/dvd/reviews.html"> Reviews</a>
+	-Parent folder: Use the "../" to indicate a folder path up followed by the file name of the page
+		<a hreef="../index.html" Home</a>
+	-Grandparent folder: Repeat the same process for each folder traversed, <a href="../../index.html"> Home</a>
