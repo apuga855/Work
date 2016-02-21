@@ -1,0 +1,8 @@
+Summary of chapter 1
+-HTML pages are text documents
+-HTML use tags, which are characters that sit inside angled brackets. They act as containers and tell you something 
+	about the information that lies within them
+-Tags are usually referred to as elements
+-Tags usually come in pairs. The openning tag denotes the start of a piece of content; the closing tag denotes the end
+-Attributes require a name and a value
+-To learn HTML you need to know what tags are available for you, what they do and where they can go.
