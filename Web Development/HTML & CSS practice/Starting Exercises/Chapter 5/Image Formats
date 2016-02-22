@@ -1,0 +1,3 @@
+Image Formats
+-JPEG should be used when there are many different colors on the image. 
+-GIF and PNG should be used when saving images with few colors or large areas with the same colors
